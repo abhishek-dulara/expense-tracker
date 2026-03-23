@@ -124,6 +124,3 @@ root.mainloop()
 
 
 
-#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
-
-#git remote set-url origin https://abhishek-dulara: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@github.com/abhishek-dulara/expense-tracker.git
